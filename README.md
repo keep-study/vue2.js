@@ -26,7 +26,3 @@ npm run dev
 ```
 npm run build
 ```
-
-## vue2.js笔记
-
-- [v-solt 插槽（基础使用、具名插槽、作用域插槽等）](./notebook/slot.md)

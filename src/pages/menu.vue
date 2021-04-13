@@ -8,6 +8,9 @@
       <li @click="$router.push('/v-slot')">
         2.v-slot插槽。
       </li>
+       <li @click="$router.push('/emit')">
+        3.emit：测试vue一些事件相关问题。
+      </li>
     </ul>
   </div>
 </template>

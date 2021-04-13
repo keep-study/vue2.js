@@ -24,6 +24,12 @@ export default new VueRouter({
 
     }, {
 
+        // 事件测试
+        path: '/emit',
+        component: () => import('./pages/emit/index.vue')
+
+    }, {
+
         // 默认路由
         path: "/*",
         redirect: 'menu'
